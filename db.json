@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "title": "The Art of Programming",
+      "content": "Programming is both a science and an art. It requires creativity, logic, and attention to detail.",
+      "author": "Alice Smith",
+      "id": 1
+    },
+    {
+      "title": "Exploring the Universe",
+      "content": "The universe is vast and mysterious, with countless wonders waiting to be discovered.",
+      "author": "Bob Johnson",
+      "id": 2
+    },
+    {
+      "title": "Cooking Adventures",
+      "content": "Cooking is an adventure that tantalizes the taste buds and brings people together.",
+      "author": "Charlie Brown",
+      "id": 3
+    },
+    {
+      "title": "The Power of Positive Thinking",
+      "content": "Positive thinking can transform your life, leading to greater happiness and success.",
+      "author": "Diana Martinez",
+      "id": 4
+    },
+    {
+      "title": "History's Lessons",
+      "content": "History teaches us valuable lessons about the past, guiding us towards a better future.",
+      "author": "Ethan Williams",
+      "id": 6
+    },
+    {
+      "title": "Nature's Beauty",
+      "content": "Nature's beauty surrounds us, from the majestic mountains to the smallest flower.",
+      "author": "Fiona Anderson",
+      "id": 7
+    },
+    {
+      "title": "Post Title",
+      "content": "sadkjash sadkjh askjd jkahhd aj hkh jkadh sjkdh a kjadh sjdh ah dkjsahd kjash dahsdjk ahsjkdh asjkd ks",
+      "author": "Muhamad Nursi",
+      "id": 8
+    }
+  ]
+}
